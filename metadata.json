@@ -1,0 +1,6 @@
+{
+  "name": "키워드 경험 스피드게임 - 누구의 이야기일까?",
+  "description": "3~6개의 키워드로 나만의 경험을 공유하고, 누구의 사연인지 실시간으로 맞추는 교실 스피드 퀴즈 웹앱 (Supabase & 실시간 멀티플레이어 지원)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
